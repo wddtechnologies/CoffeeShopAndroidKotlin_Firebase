@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "442155094203",
+    "firebase_url": "https://coffeeshopeve-default-rtdb.firebaseio.com",
+    "project_id": "coffeeshopeve",
+    "storage_bucket": "coffeeshopeve.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442155094203:android:3a7a1f55e0077d05eed99e",
+        "android_client_info": {
+          "package_name": "com.louise.coffeeappevening2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOlmXV9ut-8C7-vb8XbUFyav1GSU43nbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442155094203:android:294e987b919a4f96eed99e",
+        "android_client_info": {
+          "package_name": "com.louise.coffeeshopeve"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOlmXV9ut-8C7-vb8XbUFyav1GSU43nbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
