@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:background="@color/darkBrown"
     android:layout_height="match_parent"
-    tools:context=".IntroActivity">
+    tools:context=".Activity.IntroActivity">
 
     <ScrollView
         android:layout_width="match_parent"
