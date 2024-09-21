@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "640249152323",
+    "project_id": "eveningloginexample",
+    "storage_bucket": "eveningloginexample.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640249152323:android:4647b2255247f7c2d2a5f6",
+        "android_client_info": {
+          "package_name": "com.louise.eveningloginexample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpSX4cGPTauUC10o3roj8LdMuuuo0Rwv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
