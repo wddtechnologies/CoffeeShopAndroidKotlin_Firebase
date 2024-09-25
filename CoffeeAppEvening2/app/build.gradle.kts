@@ -46,6 +46,10 @@ dependencies {
     implementation(libs.androidx.activity)
     implementation(libs.androidx.constraintlayout)
     implementation(libs.firebase.database)
+    //Gson
+    // https://mvnrepository.com/artifact/com.google.code.gson/gson
+   implementation("com.google.code.gson:gson:2.10.1")
+
     // Glide dependency and annotation processor
     implementation("com.github.bumptech.glide:glide:4.16.0")
     annotationProcessor("com.github.bumptech.glide:compiler:4.16.0")
