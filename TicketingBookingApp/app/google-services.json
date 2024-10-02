@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "227940304658",
+    "project_id": "ticketingbookingapp",
+    "storage_bucket": "ticketingbookingapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227940304658:android:c38706d6f1f665dfd7d5cb",
+        "android_client_info": {
+          "package_name": "com.louise.ticketingbookingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGaEZKb8YWJ2WOURYEpq4mSf_qBqvBR-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
